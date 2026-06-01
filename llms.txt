@@ -1,0 +1,35 @@
+# Prep DELE C2
+
+## About
+Prep DELE C2 is an iOS app for practicing the DELE C2 exam (Diploma de Español como Lengua Extranjera, level C2 — mastery). It provides full practice exams following the official Instituto Cervantes format.
+
+## App Details
+- Platform: iOS (iPhone)
+- Price: Free with optional premium subscription
+- App Store: https://apps.apple.com/app/id0000000000
+
+## Exam Coverage
+The app covers all 3 tests of the DELE C2:
+- Test 1: Use of language, reading and listening comprehension (105 min, 6 tasks)
+- Test 2: Integrated skills — listening/reading comprehension + written expression (150 min, 3 tasks)
+- Test 3: Integrated skills — reading comprehension + oral expression (20 min + 30 min prep)
+
+## Features
+- Full practice exams in official format
+- Professional audio for listening comprehension
+- Progress tracking by test and task
+- Detailed explanations for answers
+
+## Website
+- Homepage (Spanish): https://C2.prepdele.com/
+- Homepage (English): https://C2.prepdele.com/en/
+- Blog (Spanish): https://C2.prepdele.com/blog/
+- Blog (English): https://C2.prepdele.com/en/blog/
+- Sample Exam: https://C2.prepdele.com/modelo-examen/
+- Support: https://C2.prepdele.com/support/
+
+## Contact
+- Email: hello@prepdele.com
+
+## Important
+Prep DELE C2 is an independent app. It is not affiliated with Instituto Cervantes or Spain's Ministry of Education.
