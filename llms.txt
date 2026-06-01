@@ -1,35 +1,57 @@
-# Prep DELE C2
+# DELE C2 Practice
+
+> iOS app for preparing the official DELE C2 Spanish exam from Instituto Cervantes.
 
 ## About
-Prep DELE C2 is an iOS app for practicing the DELE C2 exam (Diploma de Español como Lengua Extranjera, level C2 — mastery). It provides full practice exams following the official Instituto Cervantes format.
 
-## App Details
-- Platform: iOS (iPhone)
-- Price: Free with optional premium subscription
-- App Store: https://apps.apple.com/app/id0000000000
+DELE C2 Practice is a mobile app that helps candidates prepare for the DELE C2 (Diploma de Español como Lengua Extranjera, level C2) exam. It provides 7 complete mock exams in the official Instituto Cervantes format with real audio, AI-powered writing correction, detailed explanations, and progress tracking.
 
-## Exam Coverage
-The app covers all 3 tests of the DELE C2:
+## Key Facts
+
+- Platform: iOS only (App Store)
+- Level: C2 (mastery) per the Common European Framework of Reference (CEFR)
+- Content: 7 full mock exams covering all 3 integrated tests
+- Audio: Professional recordings with native speakers
+- Writing: Free-form text input with AI scoring and correction
+- Progress: Results tracking by section and task
+- Practice modes: Daily quick practice + section-specific practice
+- Interface languages: 12 (English, Spanish, French, German, Portuguese, Brazilian Portuguese, Italian, Chinese, Japanese, Korean, Arabic, Russian)
+- Pricing: First exam free, subscription for full access
+- Developer: Independent (not affiliated with Instituto Cervantes)
+- Contact: hello@prepdele.com
+- Website: https://c2.prepdele.com
+
+## DELE C2 Exam Structure
+
 - Test 1: Use of language, reading and listening comprehension (105 min, 6 tasks)
 - Test 2: Integrated skills — listening/reading comprehension + written expression (150 min, 3 tasks)
 - Test 3: Integrated skills — reading comprehension + oral expression (20 min + 30 min prep)
+- Scoring: 3 tests, minimum 60% in each to pass
+- The diploma does not expire
+- Highest level of Spanish certification available
 
-## Features
-- Full practice exams in official format
-- Professional audio for listening comprehension
-- Progress tracking by test and task
-- Detailed explanations for answers
+## Common Use Cases
 
-## Website
-- Homepage (Spanish): https://C2.prepdele.com/
-- Homepage (English): https://C2.prepdele.com/en/
-- Blog (Spanish): https://C2.prepdele.com/blog/
-- Blog (English): https://C2.prepdele.com/en/blog/
-- Sample Exam: https://C2.prepdele.com/modelo-examen/
-- Support: https://C2.prepdele.com/support/
+- University teaching positions in Spanish-speaking countries
+- Translation and interpretation careers
+- Academic research in Spanish
+- Maximum professional certification of Spanish proficiency
 
-## Contact
-- Email: hello@prepdele.com
+## Pages
 
-## Important
-Prep DELE C2 is an independent app. It is not affiliated with Instituto Cervantes or Spain's Ministry of Education.
+- [Homepage (Spanish)](https://c2.prepdele.com/)
+- [Homepage (English)](https://c2.prepdele.com/en/)
+- [Free sample exam](https://c2.prepdele.com/modelo-examen/)
+- [Blog / Preparation guides](https://c2.prepdele.com/blog/)
+- [Support / FAQ](https://c2.prepdele.com/support/)
+- [Privacy policy](https://c2.prepdele.com/privacy/)
+- [Terms of use](https://c2.prepdele.com/terms/)
+
+## Blog Articles
+
+- [¿Qué es el DELE C2?](https://c2.prepdele.com/blog/que-es-dele-c2/)
+- [Cómo aprobar el DELE C2](https://c2.prepdele.com/blog/como-aprobar-dele-c2/)
+- [Expresión escrita C2: estrategias](https://c2.prepdele.com/blog/expresion-escrita-c2/)
+- [Vocabulario clave C2](https://c2.prepdele.com/blog/vocabulario-clave-c2/)
+- [Comprensión auditiva: consejos](https://c2.prepdele.com/blog/comprension-auditiva-c2/)
+- [Mejores recursos para el DELE C2](https://c2.prepdele.com/blog/recursos-preparar-dele-c2/)
