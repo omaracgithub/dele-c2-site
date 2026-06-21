@@ -1,10 +1,10 @@
-// GA4 CTA + Outbound Click Tracker for DELE C2 site
+// GA4 CTA + Outbound Click Tracker — b2.prepdele.com
 (function () {
   'use strict';
 
-  function trackEvent(eventName, params) {
+  function trackEvent(name, params) {
     if (typeof gtag === 'function') {
-      gtag('event', eventName, params);
+      gtag('event', name, params);
     }
   }
 
@@ -33,4 +33,28 @@
       });
     }
   });
+
+  // Track scroll depth on landing pages
+  var scrollMarks = [25, 50, 75, 100];
+  var scrollFired = {};
+
+  function checkScroll() {
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    if (docHeight <= 0) return;
+    var percent = Math.round((scrollTop / docHeight) * 100);
+
+    scrollMarks.forEach(function (mark) {
+      if (percent >= mark && !scrollFired[mark]) {
+        scrollFired[mark] = true;
+        trackEvent('scroll_depth', { percent: mark });
+      }
+    });
+  }
+
+  var scrollTimer;
+  window.addEventListener('scroll', function () {
+    clearTimeout(scrollTimer);
+    scrollTimer = setTimeout(checkScroll, 150);
+  }, { passive: true });
 })();
