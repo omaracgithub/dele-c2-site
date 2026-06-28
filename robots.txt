@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://C2.prepdele.com/sitemap.xml
+Sitemap: https://c2.prepdele.com/sitemap.xml
