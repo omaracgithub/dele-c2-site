@@ -9,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_DIR = path.resolve(__dirname, '..');
-const APP_STORE_BASE = 'https://apps.apple.com/app/id0000000000';
+const APP_STORE_BASE = 'https://apps.apple.com/app/id6772564355';
 
 function findHtmlFiles(dir) {
   let results = [];
@@ -38,13 +38,13 @@ function tagFile(filePath) {
   let changed = false;
 
   // Find App Store links without proper parameters
-  const regex = /https:\/\/apps\.apple\.com\/app\/id0000000000(?!\?)/g;
+  const regex = /https:\/\/apps\.apple\.com\/app\/id6772564355(?!\?)/g;
   if (regex.test(content)) {
     const slug = getPageSlug(filePath);
     const lang = filePath.includes('/en/') ? 'en' : 'es';
     content = content.replace(
-      /https:\/\/apps\.apple\.com\/app\/id0000000000(?!\?)/g,
-      `https://apps.apple.com/app/id0000000000?pt=126845029&ct=site-${slug}-${lang}&mt=8`
+      /https:\/\/apps\.apple\.com\/app\/id6772564355(?!\?)/g,
+      `https://apps.apple.com/app/id6772564355?pt=126845029&ct=site-${slug}-${lang}&mt=8`
     );
     changed = true;
   }

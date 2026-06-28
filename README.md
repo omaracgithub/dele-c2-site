@@ -34,7 +34,7 @@ Hosted on GitHub Pages with custom domain via Cloudflare DNS.
 
 - [ ] Add screenshots to `/screenshots/` folder
 - [ ] Add favicon-light.png, favicon-dark.png, apple-touch-icon.png
-- [ ] Replace `id0000000000` with real App Store ID once published
+- [ ] Replace `id6772564355` with real App Store ID once published
 - [ ] Verify domain in Google Search Console
 - [ ] Submit sitemap.xml
 
